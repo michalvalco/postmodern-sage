@@ -3,7 +3,7 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
-[![Made with Wisdom](https://img.shields.io/badge/made%20with-wisdom-blue.svg)](https://github.com/michalvalco/postmodern-sage)
+[![Made with Wisdom](https://img.shields.io/badge/made%20with-wisdom-blue.svg)](https://github.com/yourusername/postmodern-sage)
 
 ---
 
@@ -11,13 +11,26 @@ We live in an age that offers everything—yet leaves many of us empty.
 
 Purpose feels elusive. Meaning seems fragmented. Traditional frameworks no longer hold... but what replaces them? This repository exists as a gathering place for those navigating that peculiar tension between ancient wisdom and contemporary chaos.
 
+### A Cross-Traditional Approach
+
+This isn't bound to a single philosophical tradition. Instead, we draw from multiple wisdom streams:
+
+- **Western virtue ethics** (Aristotle, Aquinas, MacIntyre) for understanding human excellence and moral development
+- **Christian personalism** (Wojtyła, Mounier, Buber) for relational anthropology and the dignity of persons
+- **Buddhist wisdom** for mindfulness, non-attachment, compassionate presence, and the nature of suffering
+- **Confucian ethics** for social harmony, relational responsibility, moral cultivation, and practical wisdom
+- **Stoic philosophy** (Epictetus, Marcus Aurelius, Seneca) for resilience, discipline, and tranquility
+- **Contemporary phenomenology** (Husserl, Heidegger, Merleau-Ponty) for understanding lived experience
+
+The goal isn't syncretism—forcing these traditions into artificial harmony. Rather, it's recognizing that different wisdom traditions illuminate different aspects of human flourishing. Sometimes Aristotle helps. Sometimes the Buddha. Sometimes Confucius. Sometimes all three, in dialogue.
+
 ### What This Is (and Isn't)
 
 This is **not** another self-help repository promising seven steps to enlightenment.
 
-Rather, it's a curated collection of philosophical reflections, practical guides, and honest explorations of what it means to live authentically in the 21st century. Think of it as a digital commonplace book—part library, part laboratory, part conversation.
+Rather, it's a curated collection of philosophical reflections, practical guides, and honest explorations of what it means to live authentically in the 21st century. Think of it as a digital commonplace book—part library, part laboratory, part conversation—drawing from the world's wisdom traditions to address contemporary challenges.
 
-The aim? To bridge timeless philosophical insights with the actual challenges you face: the algorithm-driven attention economy, the paradox of choice, the loneliness of hyperconnectivity, the search for transcendence in an immanent frame.
+The aim? To bridge timeless philosophical insights with the actual challenges you face: the algorithm-driven attention economy, the paradox of choice, the loneliness of hyperconnectivity, the search for transcendence in an immanent frame, the cultivation of virtue in digital spaces.
 
 ### Who This Is For
 
@@ -92,8 +105,8 @@ Profound doesn't mean obscure. We aim for clarity without simplification.
 **3. Practical Integration**  
 Wisdom that doesn't touch real life isn't wisdom—it's abstraction.
 
-**4. Generous Orthodoxy**  
-We draw from multiple traditions (Christian personalism, virtue ethics, existentialism, contemplative practices) without requiring adherence to any single framework.
+**4. Cross-Traditional Dialogue**  
+We draw from multiple wisdom traditions (Christian personalism, virtue ethics, Buddhism, Confucianism, Stoicism, existentialism, contemplative practices) without requiring adherence to any single framework. Each tradition offers unique insights; dialogue between them enriches understanding.
 
 **5. Contextual Sensitivity**  
 What works in theory must meet reality. Context matters profoundly.
@@ -106,8 +119,6 @@ What works in theory must meet reality. Context matters profoundly.
 - Digital minimalism as spiritual practice
 - Neo-Aristotelian virtue in contemporary contexts
 - The role of narrative in personal identity formation
-
-**Why now:** These threads meet where people actually live—algorithmic pressure, fragmenting attention, and post-certainty meaning—so we’re aiming for tools that help in real weeks, not ideal worlds.
 
 ## How to Use This Repository
 
@@ -151,7 +162,6 @@ Questions? Reflections? Critiques?
 ## License
 
 Content is shared under [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE.md).
-Code snippets default to MIT unless a file states otherwise.
 
 In other words: Use it. Share it. Build on it. Just give credit and keep it open.
 

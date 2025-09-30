@@ -34,6 +34,20 @@ We're not gatekeeping... but we do have standards.
 - Acknowledge what they don't know
 - Speak to contemporary challenges
 - Demonstrate intellectual humility
+- **Draw from any authentic wisdom tradition** (Western, Eastern, ancient, modern—if it illuminates human flourishing, it belongs here)
+
+**We especially welcome contributions drawing from:**
+- Western virtue ethics (Aristotelian, Thomistic, neo-Aristotelian)
+- Christian personalism and contemplative traditions
+- Buddhist philosophy and mindfulness practices
+- Confucian ethics and relational wisdom
+- Stoic practical philosophy
+- Islamic philosophy and Sufi wisdom
+- Indigenous wisdom traditions
+- Contemporary phenomenology and existentialism
+- Secular humanism and pragmatism
+
+**Cross-traditional dialogue is encouraged.** Some of the best insights emerge when different traditions are brought into conversation—for example, Buddhist mindfulness meeting Stoic discipline, or Confucian relational ethics enriching Christian personalism.
 
 **What doesn't fit:**
 - Dogmatic certainties ("The answer is obviously X")
@@ -41,6 +55,7 @@ We're not gatekeeping... but we do have standards.
 - Content that's already widely accessible elsewhere (unless you're adding substantial new insight)
 - Platitudes without depth ("Just be yourself!" without exploring *what that actually means*)
 - Dismissive takes on philosophical traditions you haven't seriously engaged
+- Proselytizing or sectarian advocacy (share wisdom from your tradition, but don't use this platform to convert others to it)
 
 ## How to Contribute
 
@@ -142,6 +157,27 @@ If you reference specific thinkers, books, or frameworks:
 - Provide enough context that readers can follow up
 
 No formal academic citation style required—just clarity and honesty about where ideas come from.
+
+### Writing from Your Tradition
+
+If you're contributing from a specific philosophical or religious tradition:
+
+**Do:**
+- Identify your tradition clearly ("Drawing from Buddhist philosophy..." or "From a Christian personalist perspective...")
+- Explain tradition-specific concepts for readers unfamiliar with them
+- Show how insights from your tradition address contemporary challenges
+- Acknowledge where your tradition has limitations or blind spots
+- Write for readers who may not share your tradition's fundamental commitments
+
+**Don't:**
+- Assume readers share your tradition's assumptions
+- Use insider language without explanation
+- Proselytize or advocate for conversion
+- Dismiss other traditions as inferior
+- Present tradition-specific claims as universal truths
+
+**Example of good cross-traditional writing:**  
+"Buddhist philosophy offers a helpful framework for understanding the attention economy through the concept of *dukkha* (often translated as suffering, but more accurately: dissatisfaction or unsatisfactoriness). When we're constantly scrolling, we're seeking satisfaction that perpetually eludes us—a pattern the Buddha identified 2,500 years ago. This insight complements (rather than contradicts) Western virtue ethics' concern with habit formation..."
 
 ## Rights & Attribution
 
