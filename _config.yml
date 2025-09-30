@@ -1,0 +1,64 @@
+# A Postmodern Sage - Jekyll Configuration
+
+# Site settings
+title: A Postmodern Sage
+description: Philosophical wisdom for navigating 21st-century challenges. Integrates Western virtue ethics, Christian personalism, Buddhist mindfulness, Confucian ethics, and Stoic practice for meaning, purpose, and authentic living in the digital age.
+baseurl: "/postmodern-sage"
+url: "https://michalvalco.github.io"
+
+# Theme
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Author info
+author: Michal Valco
+github_username: michalvalco
+
+# Navigation (optional - uncomment and customize if you want a menu)
+# header_pages:
+#   - wisdom-library/README.md
+#   - contemporary-challenges/README.md
+#   - practical-guides/README.md
+#   - recommended-resources/README.md
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Exclude these files from the site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - docs/DEPLOYMENT_GUIDE.md
+  - docs/REPOSITORY_STRUCTURE.md
+  - PUSH_INSTRUCTIONS.md
+
+# Include these files
+include:
+  - _pages
+  - docs/QUICK_START.md
+  - docs/NAVIGATION_GUIDE.md
+  - docs/STYLE_GUIDE.md
+  - docs/GITHUB_PAGES_GUIDE.md
+
+# Collections (optional - for future organization)
+# collections:
+#   wisdom:
+#     output: true
+#     permalink: /:collection/:name
+
+# Default front matter (optional)
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
