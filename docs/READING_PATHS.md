@@ -3,6 +3,15 @@ layout: default
 title: "Reading Paths"
 permalink: /reading-paths/
 description: "Curated journeys through philosophical content organized by theme and difficulty"
+
+# OpenGraph / Social Media metadata
+og:title: Reading Paths - A Postmodern Sage
+og:description: Guided learning journeys through cross-traditional wisdom - from 30-minute explorations to deep dives in ethics, technology, and identity
+og:type: website
+og:url: https://michalvalco.github.io/postmodern-sage/reading-paths/
+twitter:card: summary
+twitter:title: Reading Paths - Guided Philosophical Journeys
+twitter:description: Curated paths through Buddhist, Stoic, Confucian, and virtue ethics wisdom
 ---
 
 # Reading Paths

@@ -6,6 +6,7 @@ category: relationality
 type: essay
 tags: [Confucian ethics, relationality, identity, autonomy, community, ren]
 date: 2025-09-30
+last_updated: 2025-10-20
 author: Michal Valco
 ---
 

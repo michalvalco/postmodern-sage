@@ -3,6 +3,15 @@ layout: default
 title: "Content Catalog"
 permalink: /catalog/
 description: "Complete index of all philosophical content, essays, insights, and resources"
+
+# OpenGraph / Social Media metadata
+og:title: Content Catalog - A Postmodern Sage
+og:description: Browse all philosophical essays, insights, and challenges organized by category, tradition, and theme
+og:type: website
+og:url: https://michalvalco.github.io/postmodern-sage/catalog/
+twitter:card: summary
+twitter:title: Content Catalog - A Postmodern Sage
+twitter:description: Complete inventory of cross-traditional philosophical wisdom
 ---
 
 # Content Catalog

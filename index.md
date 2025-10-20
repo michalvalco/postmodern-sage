@@ -2,6 +2,16 @@
 layout: default
 title: A Postmodern Sage - Wisdom for the 21st-Century Seeker
 description: Philosophical wisdom for navigating 21st-century challenges through cross-traditional dialogue
+
+# OpenGraph / Social Media metadata
+og:title: A Postmodern Sage - Wisdom for the 21st-Century Seeker
+og:description: Curated philosophical insights from Western virtue ethics, Buddhist wisdom, Confucian ethics, Stoicism, and contemporary phenomenology for authentic living in the digital age
+og:type: website
+og:url: https://michalvalco.github.io/postmodern-sage/
+og:image: https://michalvalco.github.io/postmodern-sage/assets/images/og-image.png
+twitter:card: summary_large_image
+twitter:title: A Postmodern Sage - Wisdom for the 21st-Century Seeker
+twitter:description: Cross-traditional philosophical wisdom for navigating contemporary challenges
 ---
 
 # A Postmodern Sage

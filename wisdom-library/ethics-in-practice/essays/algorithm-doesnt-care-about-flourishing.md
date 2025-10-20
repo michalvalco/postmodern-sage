@@ -6,6 +6,7 @@ category: ethics-in-practice
 type: essay
 tags: [AI ethics, virtue ethics, technology, human flourishing, algorithms]
 date: 2025-09-30
+last_updated: 2025-10-20
 author: Michal Valco
 ---
 

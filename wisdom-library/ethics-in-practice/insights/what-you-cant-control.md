@@ -6,6 +6,7 @@ category: ethics-in-practice
 type: insight
 tags: [stoicism, buddhism, non-attachment, acceptance, control, tranquility, wisdom synthesis]
 date: 2025-09-30
+last_updated: 2025-10-20
 author: Michal Valco
 ---
 

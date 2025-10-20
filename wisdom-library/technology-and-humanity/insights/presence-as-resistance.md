@@ -5,6 +5,7 @@ category: technology-and-humanity
 type: insight
 tags: [buddhism, mindfulness, technology, humanity, attention economy, contemplative practice, dukkha]
 date: 2025-09-30
+last_updated: 2025-10-20
 author: Michal Valco
 ---
 

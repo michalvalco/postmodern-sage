@@ -5,6 +5,7 @@ category: contemporary-challenges
 type: challenge
 tags: [attention economy, consciousness, technology, mindfulness, deep work, presence]
 date: 2025-09-30
+last_updated: 2025-10-20
 author: Michal Valco
 ---
 
