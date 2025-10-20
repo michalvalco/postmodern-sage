@@ -1,3 +1,19 @@
+---
+layout: default
+title: A Postmodern Sage - Wisdom for the 21st-Century Seeker
+description: Philosophical wisdom for navigating 21st-century challenges through cross-traditional dialogue
+
+# OpenGraph / Social Media metadata
+og:title: A Postmodern Sage - Wisdom for the 21st-Century Seeker
+og:description: Curated philosophical insights from Western virtue ethics, Buddhist wisdom, Confucian ethics, Stoicism, and contemporary phenomenology for authentic living in the digital age
+og:type: website
+og:url: https://michalvalco.github.io/postmodern-sage/
+og:image: https://michalvalco.github.io/postmodern-sage/assets/images/og-image.png
+twitter:card: summary_large_image
+twitter:title: A Postmodern Sage - Wisdom for the 21st-Century Seeker
+twitter:description: Cross-traditional philosophical wisdom for navigating contemporary challenges
+---
+
 # A Postmodern Sage
 ## *Wisdom for the 21st-Century Seeker*
 
@@ -7,7 +23,7 @@
 
 ---
 
-We live in an age that offers everything—yet leaves many of us empty. 
+We live in an age that offers everything—yet leaves many of us empty.
 
 Purpose feels elusive. Meaning seems fragmented. Traditional frameworks no longer hold... but what replaces them? This repository exists as a gathering place for those navigating that peculiar tension between ancient wisdom and contemporary chaos.
 
@@ -47,16 +63,16 @@ If that resonates... welcome.
 
 ### 📚 Core Collections
 
-#### `/wisdom-library`
+#### [Wisdom Library](wisdom-library/)
 Curated philosophical insights organized by theme:
-- **Ethics in Practice** — Navigating moral complexity without religious certainty
-- **Purpose & Meaning** — Finding direction in a post-grand-narrative world
-- **Technology & Humanity** — Living authentically in the digital age
-- **Relationality** — Connection, love, and community in hypermodern society
-- **Transcendence** — The vertical dimension in a horizontal world
-- **Identity & Authenticity** — Who you are when culture won't tell you
+- **[Ethics in Practice](wisdom-library/ethics-in-practice/)** — Navigating moral complexity without religious certainty
+- **[Purpose & Meaning](wisdom-library/purpose-and-meaning/)** — Finding direction in a post-grand-narrative world
+- **[Technology & Humanity](wisdom-library/technology-and-humanity/)** — Living authentically in the digital age
+- **[Relationality](wisdom-library/relationality/)** — Connection, love, and community in hypermodern society
+- **[Transcendence](wisdom-library/transcendence/)** — The vertical dimension in a horizontal world
+- **[Identity & Authenticity](wisdom-library/identity-and-authenticity/)** — Who you are when culture won't tell you
 
-#### `/contemporary-challenges`
+#### [Contemporary Challenges](contemporary-challenges/)
 Direct engagement with 21st-century existential dilemmas:
 - The attention economy and fragmented consciousness
 - Choice paralysis and decision fatigue
@@ -65,7 +81,7 @@ Direct engagement with 21st-century existential dilemmas:
 - Loneliness in crowded spaces
 - Climate anxiety and temporal vertigo
 
-#### `/practical-guides`
+#### [Practical Guides](practical-guides/)
 Actionable frameworks (because wisdom divorced from practice is just theory):
 - Daily practices for cultivating presence
 - Decision-making frameworks for complex choices
@@ -73,7 +89,7 @@ Actionable frameworks (because wisdom divorced from practice is just theory):
 - Conversation starters for meaningful dialogue
 - Reflection prompts for self-examination
 
-#### `/recommended-resources`
+#### [Recommended Resources](recommended-resources/)
 Curated books, essays, podcasts, and thinkers worth your time—filtered through a postmodern lens with ancient sensibilities.
 
 ## Navigation
@@ -83,6 +99,18 @@ Each section includes:
 - 💡 **Insights** — Brief reflections and aphorisms
 - 🛠️ **Tools** — Practical applications
 - 🔗 **Further Reading** — Curated external resources
+
+### Finding Your Way
+
+**New here?** Start with our curated [Reading Paths](docs/READING_PATHS.md) for guided journeys through the content.
+
+**Looking for something specific?**
+- 📑 **[Content Catalog](CONTENT_CATALOG.md)** — Complete inventory of all essays, insights, and challenges
+- 🏷️ **[Tags Index](TAGS_INDEX.md)** — Cross-reference content by topic, theme, or tradition
+- 🧭 **[Reading Paths](docs/READING_PATHS.md)** — Curated journeys organized by theme and difficulty
+
+**Browse by tradition:**
+See the [Tags Index](TAGS_INDEX.md) to explore content from specific philosophical traditions (Buddhism, Stoicism, Confucianism, Virtue Ethics, etc.)
 
 ## Contributing
 
@@ -96,19 +124,19 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. (Spoiler: We value depth 
 
 ### Our Commitments
 
-**1. Intellectual Honesty**  
+**1. Intellectual Honesty**
 No easy answers. No false certainties. If something is complex, we say so.
 
-**2. Accessible Depth**  
+**2. Accessible Depth**
 Profound doesn't mean obscure. We aim for clarity without simplification.
 
-**3. Practical Integration**  
+**3. Practical Integration**
 Wisdom that doesn't touch real life isn't wisdom—it's abstraction.
 
-**4. Cross-Traditional Dialogue**  
+**4. Cross-Traditional Dialogue**
 We draw from multiple wisdom traditions (Christian personalism, virtue ethics, Buddhism, Confucianism, Stoicism, existentialism, contemplative practices) without requiring adherence to any single framework. Each tradition offers unique insights; dialogue between them enriches understanding.
 
-**5. Contextual Sensitivity**  
+**5. Contextual Sensitivity**
 What works in theory must meet reality. Context matters profoundly.
 
 ## Current Focus Areas
@@ -122,17 +150,17 @@ What works in theory must meet reality. Context matters profoundly.
 
 ## How to Use This Repository
 
-**For Quick Insight:**  
-Browse `/wisdom-library` for thematic explorations.
+**For Quick Insight:**
+Browse [Wisdom Library](wisdom-library/) for thematic explorations.
 
-**For Specific Challenges:**  
-Check `/contemporary-challenges` for direct engagement with modern dilemmas.
+**For Specific Challenges:**
+Check [Contemporary Challenges](contemporary-challenges/) for direct engagement with modern dilemmas.
 
-**For Integration:**  
-Explore `/practical-guides` for actionable frameworks.
+**For Integration:**
+Explore [Practical Guides](practical-guides/) for actionable frameworks.
 
-**For Deep Dives:**  
-Follow the curated paths in `/recommended-resources`.
+**For Deep Dives:**
+Follow the curated paths in [Recommended Resources](recommended-resources/).
 
 ## Community Standards
 
@@ -148,7 +176,7 @@ See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for full community guidelines.
 
 This repository evolves. Check [CHANGELOG.md](CHANGELOG.md) for recent additions and refinements.
 
-**Current Version:** 1.0.0  
+**Current Version:** 1.0.0
 **Last Updated:** September 2025
 
 ## Support & Contact

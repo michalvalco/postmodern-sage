@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Contemporary Challenges"
+permalink: /contemporary-challenges/
+description: "Direct engagement with existential dilemmas specific to the 21st century"
+---
+
 # Contemporary Challenges
 
 Direct engagement with existential dilemmas specific to the 21st century.

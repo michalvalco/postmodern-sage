@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Practical Guides"
+permalink: /practical-guides/
+description: "Actionable frameworks and practices grounded in philosophical depth"
+---
+
 # Practical Guides
 
 Wisdom divorced from practice isn't wisdom—it's abstraction.

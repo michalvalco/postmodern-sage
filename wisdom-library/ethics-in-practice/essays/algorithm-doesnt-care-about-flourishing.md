@@ -1,3 +1,15 @@
+---
+layout: default
+title: "The Algorithm Doesn't Care About Your Flourishing"
+subtitle: "On Ethics, AI, and What Gets Optimized"
+category: ethics-in-practice
+type: essay
+tags: [AI ethics, virtue ethics, technology, human flourishing, algorithms]
+date: 2025-09-30
+last_updated: 2025-10-20
+author: Michal Valco
+---
+
 # The Algorithm Doesn't Care About Your Flourishing
 ## On Ethics, AI, and What Gets Optimized
 

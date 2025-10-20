@@ -1,0 +1,46 @@
+# Repository Code Owners
+# This file defines who is responsible for reviewing changes to specific parts of the repository
+
+# Default owner for everything (unless a later match takes precedence)
+* @michalvalco
+
+# Documentation
+/docs/ @michalvalco
+*.md @michalvalco
+
+# Configuration files
+/_config.yml @michalvalco
+/.gitignore @michalvalco
+
+# Issue templates
+/.github/ @michalvalco
+
+# Wisdom Library content
+/wisdom-library/ @michalvalco
+/wisdom-library/ethics-in-practice/ @michalvalco
+/wisdom-library/purpose-and-meaning/ @michalvalco
+/wisdom-library/technology-and-humanity/ @michalvalco
+/wisdom-library/relationality/ @michalvalco
+/wisdom-library/transcendence/ @michalvalco
+/wisdom-library/identity-and-authenticity/ @michalvalco
+
+# Contemporary Challenges
+/contemporary-challenges/ @michalvalco
+
+# Practical Guides
+/practical-guides/ @michalvalco
+
+# Recommended Resources
+/recommended-resources/ @michalvalco
+
+# Core repository files
+/README.md @michalvalco
+/CONTRIBUTING.md @michalvalco
+/CODE_OF_CONDUCT.md @michalvalco
+/LICENSE.md @michalvalco
+/CHANGELOG.md @michalvalco
+
+# Discovery and navigation files
+/CONTENT_CATALOG.md @michalvalco
+/TAGS_INDEX.md @michalvalco
+/docs/READING_PATHS.md @michalvalco
