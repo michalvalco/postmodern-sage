@@ -90,6 +90,18 @@ Each section includes:
 - 🛠️ **Tools** — Practical applications
 - 🔗 **Further Reading** — Curated external resources
 
+### Finding Your Way
+
+**New here?** Start with our curated [Reading Paths](docs/READING_PATHS.md) for guided journeys through the content.
+
+**Looking for something specific?**
+- 📑 **[Content Catalog](CONTENT_CATALOG.md)** — Complete inventory of all essays, insights, and challenges
+- 🏷️ **[Tags Index](TAGS_INDEX.md)** — Cross-reference content by topic, theme, or tradition
+- 🧭 **[Reading Paths](docs/READING_PATHS.md)** — Curated journeys organized by theme and difficulty
+
+**Browse by tradition:**
+See the [Tags Index](TAGS_INDEX.md) to explore content from specific philosophical traditions (Buddhism, Stoicism, Confucianism, Virtue Ethics, etc.)
+
 ## Contributing
 
 Your wisdom matters. Seriously.

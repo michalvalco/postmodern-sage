@@ -76,11 +76,17 @@ If you're not sure where to start, try these:
 
 ## How to Navigate
 
-**Follow links:** Content is cross-referenced. One piece leads to another.
+**New here?** Follow our curated [Reading Paths](READING_PATHS.md) for guided journeys organized by theme and difficulty.
 
-**Use tags:** Each piece is tagged at the bottom. Click to find related content.
+**Looking for something specific?**
+- 📑 **[Content Catalog](../CONTENT_CATALOG.md)** — Complete inventory of everything available
+- 🏷️ **[Tags Index](../TAGS_INDEX.md)** — Find content by topic or philosophical tradition
+- 🧭 **[Reading Paths](READING_PATHS.md)** — Curated journeys (30-60 minutes each)
 
-**Browse by category:** Explore entire sections if you want comprehensive engagement.
+**Traditional navigation:**
+- **Follow links:** Content is cross-referenced. One piece leads to another.
+- **Use tags:** Each piece is tagged. Browse the [Tags Index](../TAGS_INDEX.md) to find related content.
+- **Browse by category:** Explore entire sections if you want comprehensive engagement.
 
 **Ask questions:** Open an issue if something's unclear.
 
