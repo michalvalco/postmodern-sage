@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Wisdom Library"
+permalink: /wisdom-library/
+description: "Core philosophical content organized by theme, not by tradition or thinker"
+---
+
 # Wisdom Library
 
 This is the core philosophical content of A Postmodern Sage—organized by theme, not by tradition or thinker.

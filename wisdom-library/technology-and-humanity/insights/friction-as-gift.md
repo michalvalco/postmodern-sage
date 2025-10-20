@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Friction as Gift"
+category: technology-and-humanity
+type: insight
+tags: [technology, humanity, virtue ethics, human flourishing, friction, resistance]
+date: 2025-09-30
+author: Michal Valco
+---
+
 # Friction as Gift
 
 We've been trained to see friction as failure.
@@ -21,9 +31,3 @@ Friction—when rightly ordered—is precisely what transforms consumption into 
 So perhaps the question isn't "How do we remove all friction?" but rather "Which frictions are worth preserving?"
 
 Those are the spaces where we become more fully human.
-
----
-
-*Tags: technology and humanity, virtue ethics, human flourishing*  
-*Date: 2025-09-30*  
-*Word count: ~180*

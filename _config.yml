@@ -15,12 +15,14 @@ plugins:
 author: Michal Valco
 github_username: michalvalco
 
-# Navigation (optional - uncomment and customize if you want a menu)
-# header_pages:
-#   - wisdom-library/README.md
-#   - contemporary-challenges/README.md
-#   - practical-guides/README.md
-#   - recommended-resources/README.md
+# Navigation
+header_pages:
+  - wisdom-library/README.md
+  - contemporary-challenges/README.md
+  - practical-guides/README.md
+  - recommended-resources/README.md
+  - CONTRIBUTING.md
+  - docs/QUICK_START.md
 
 # Build settings
 markdown: kramdown
@@ -37,9 +39,10 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - README.md
   - docs/DEPLOYMENT_GUIDE.md
   - docs/REPOSITORY_STRUCTURE.md
-  - PUSH_INSTRUCTIONS.md
+  - docs/REPOSITORY_STRUCTURE.pdf
 
 # Include these files
 include:
@@ -49,11 +52,20 @@ include:
   - docs/STYLE_GUIDE.md
   - docs/GITHUB_PAGES_GUIDE.md
 
-# Collections (optional - for future organization)
-# collections:
-#   wisdom:
-#     output: true
-#     permalink: /:collection/:name
+# Collections
+collections:
+  wisdom-library:
+    output: true
+    permalink: /wisdom-library/:path/
+  contemporary-challenges:
+    output: true
+    permalink: /contemporary-challenges/:path/
+  practical-guides:
+    output: true
+    permalink: /practical-guides/:path/
+  recommended-resources:
+    output: true
+    permalink: /recommended-resources/:path/
 
 # Default front matter (optional)
 defaults:

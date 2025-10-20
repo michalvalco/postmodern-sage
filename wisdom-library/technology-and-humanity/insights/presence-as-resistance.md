@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Presence as Resistance"
+category: technology-and-humanity
+type: insight
+tags: [buddhism, mindfulness, technology, humanity, attention economy, contemplative practice, dukkha]
+date: 2025-09-30
+author: Michal Valco
+---
+
 # Presence as Resistance
 
 The Buddha taught that suffering (*dukkha*) arises from craving and aversion—the mind's constant reaching toward what it wants and pushing away what it doesn't.
@@ -47,9 +57,3 @@ This isn't about achieving perfect presence. It's about noticing absence... whic
 The Buddha's teaching remains startlingly relevant: Craving causes suffering. Awareness interrupts craving. Freedom emerges through seeing clearly.
 
 Even—perhaps especially—in the digital age.
-
----
-
-*Tags: buddhism, mindfulness, technology and humanity, attention economy, contemplative practice*  
-*Date: 2025-09-30*  
-*Word count: ~430*

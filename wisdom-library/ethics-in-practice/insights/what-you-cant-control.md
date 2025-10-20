@@ -1,3 +1,14 @@
+---
+layout: default
+title: "What You Can't Control"
+subtitle: "Buddhist-Stoic Synthesis"
+category: ethics-in-practice
+type: insight
+tags: [stoicism, buddhism, non-attachment, acceptance, control, tranquility, wisdom synthesis]
+date: 2025-09-30
+author: Michal Valco
+---
+
 # What You Can't Control (Buddhist-Stoic Synthesis)
 
 The Stoics had a principle: **Focus on what's within your control. Accept what isn't.**
@@ -42,9 +53,3 @@ Next time you notice yourself anxious about an outcome, pause. Ask:
 The Stoics and the Buddha, separated by centuries and geography, arrived at the same truth:
 
 Freedom comes not from controlling everything, but from releasing what you never controlled in the first place.
-
----
-
-*Tags: stoicism, buddhism, non-attachment, acceptance, control, tranquility, wisdom synthesis*  
-*Date: 2025-09-30*  
-*Word count: ~360*

@@ -1,3 +1,13 @@
+---
+layout: default
+title: "The Attention Economy and Fragmented Consciousness"
+category: contemporary-challenges
+type: challenge
+tags: [attention economy, consciousness, technology, mindfulness, deep work, presence]
+date: 2025-09-30
+author: Michal Valco
+---
+
 # The Attention Economy and Fragmented Consciousness
 
 ## The Problem

@@ -1,3 +1,14 @@
+---
+layout: default
+title: "You Are Not Self-Made"
+subtitle: "On Confucian Relationality and the Myth of Autonomy"
+category: relationality
+type: essay
+tags: [Confucian ethics, relationality, identity, autonomy, community, ren]
+date: 2025-09-30
+author: Michal Valco
+---
+
 # You Are Not Self-Made
 ## On Confucian Relationality and the Myth of Autonomy
 

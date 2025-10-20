@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Recommended Resources"
+permalink: /recommended-resources/
+description: "Curated books, essays, podcasts, and thinkers worth your time"
+---
+
 # Recommended Resources
 
 Curated books, essays, podcasts, and thinkers worth your time—filtered through a postmodern lens with ancient sensibilities.
