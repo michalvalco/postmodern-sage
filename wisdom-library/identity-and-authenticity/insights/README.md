@@ -17,3 +17,6 @@ Brief reflections on identity, selfhood, and authentic living.
 ---
 
 [← Back to Identity & Authenticity](../)
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

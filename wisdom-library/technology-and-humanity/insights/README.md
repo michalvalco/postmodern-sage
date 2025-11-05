@@ -18,3 +18,6 @@ Brief reflections on technology, attention, and human flourishing.
 ---
 
 [← Back to Technology & Humanity](../)
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

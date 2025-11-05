@@ -17,3 +17,6 @@ Deep philosophical explorations of the vertical dimension in a horizontal world.
 ---
 
 [← Back to Transcendence](../)
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

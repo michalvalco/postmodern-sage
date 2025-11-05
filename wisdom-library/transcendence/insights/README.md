@@ -17,3 +17,6 @@ Brief reflections on the sacred, awe, and the numinous.
 ---
 
 [← Back to Transcendence](../)
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

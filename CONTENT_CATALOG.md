@@ -206,3 +206,6 @@ Follow the [Reading Paths](docs/READING_PATHS.md) for guided exploration
 ---
 
 *This catalog updates automatically as new content is added. Check [CHANGELOG.md](CHANGELOG.md) for recent additions.*
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

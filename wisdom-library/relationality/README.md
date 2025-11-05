@@ -32,3 +32,6 @@ Humans are fundamentally relational beings—but contemporary culture makes genu
 ---
 
 [← Back to Wisdom Library](../)
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

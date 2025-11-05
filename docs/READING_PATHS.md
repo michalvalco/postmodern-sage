@@ -236,3 +236,6 @@ The paths above are suggestions. Feel free to:
 *These paths will expand as new content is added. Bookmark this page and return as the library grows.*
 
 **Questions about these paths?** Open an [issue](https://github.com/michalvalco/postmodern-sage/issues) or [contribute](../CONTRIBUTING.md) your own suggested path!
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

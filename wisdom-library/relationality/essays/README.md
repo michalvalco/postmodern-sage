@@ -17,3 +17,6 @@ Deep philosophical explorations of connection, love, and community in hypermoder
 ---
 
 [← Back to Relationality](../)
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

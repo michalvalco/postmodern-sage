@@ -202,3 +202,6 @@ I'm a university professor working at the intersection of ethics, theology, and 
 
 *Tags: confucianism, relationality, virtue ethics, ren, li, filial piety, relational self, individualism, community*  
 *Date: 2025-09-30*
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

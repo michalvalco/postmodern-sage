@@ -170,3 +170,6 @@ Open an issue with the label `resource-recommendation` and we'll engage.
 **Coming soon:** Regular updates as resource collections are curated and refined.
 
 For now, bookmark this page and check back as the library grows.
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

@@ -31,3 +31,6 @@ How do you make ethical decisions when traditional moral frameworks no longer ho
 ---
 
 [← Back to Wisdom Library](../)
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

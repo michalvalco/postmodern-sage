@@ -272,3 +272,6 @@ Open an issue with the label `navigation-question` and we'll clarify—then upda
 **Start exploring:** Choose an entry point above, or just pick what looks interesting and begin.
 
 Philosophy happens through engagement, not just consumption. So... engage.
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

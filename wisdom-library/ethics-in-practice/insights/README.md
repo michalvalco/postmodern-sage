@@ -17,3 +17,6 @@ Brief reflections and observations on ethical living.
 ---
 
 [← Back to Ethics in Practice](../)
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

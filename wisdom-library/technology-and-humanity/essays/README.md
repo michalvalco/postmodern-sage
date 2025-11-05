@@ -17,3 +17,6 @@ Deep philosophical explorations of living authentically in the digital age.
 ---
 
 [← Back to Technology & Humanity](../)
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

@@ -272,3 +272,6 @@ https://jekyllrb.com/docs/
 **Test URL:** https://michalvalco.github.io/postmodern-sage/
 
 Let me know when you've chosen a theme and I'll help you customize further!
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)
