@@ -227,3 +227,6 @@ We're confronted, then, with the task of building something genuinely useful—n
 **Questions? Reach out by opening an issue.**
 
 *Let's build something worth reading.*
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

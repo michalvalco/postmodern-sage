@@ -58,3 +58,6 @@ This isn't about achieving perfect presence. It's about noticing absence... whic
 The Buddha's teaching remains startlingly relevant: Craving causes suffering. Awareness interrupts craving. Freedom emerges through seeing clearly.
 
 Even—perhaps especially—in the digital age.
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

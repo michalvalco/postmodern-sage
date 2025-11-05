@@ -308,3 +308,6 @@ As the repository grows, we'll add new tags. If you think a piece needs addition
 ---
 
 *This index updates as new content is tagged. Last updated: October 2025*
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

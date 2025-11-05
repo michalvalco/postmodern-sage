@@ -32,3 +32,6 @@ When the old stories (religious, national, ideological) no longer compel—where
 ---
 
 [← Back to Wisdom Library](../)
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

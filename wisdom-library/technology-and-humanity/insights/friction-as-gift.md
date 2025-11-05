@@ -32,3 +32,6 @@ Friction—when rightly ordered—is precisely what transforms consumption into 
 So perhaps the question isn't "How do we remove all friction?" but rather "Which frictions are worth preserving?"
 
 Those are the spaces where we become more fully human.
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

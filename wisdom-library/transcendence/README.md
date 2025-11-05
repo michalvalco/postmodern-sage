@@ -32,3 +32,6 @@ Transcendence doesn't require traditional religion—but it does require taking 
 ---
 
 [← Back to Wisdom Library](../)
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

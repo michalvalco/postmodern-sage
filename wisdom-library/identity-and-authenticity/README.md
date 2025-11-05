@@ -32,3 +32,6 @@ When identity is no longer given by tradition but chosen (or curated), what does
 ---
 
 [← Back to Wisdom Library](../)
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

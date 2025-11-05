@@ -156,3 +156,6 @@ I'm a university professor working at the intersection of AI ethics, theology, a
 
 *Tags: AI ethics, virtue ethics, technology and humanity, human flourishing, Christian personalism, algorithmic systems*  
 *Date: 2025-09-30*
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

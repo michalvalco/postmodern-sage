@@ -54,3 +54,6 @@ Next time you notice yourself anxious about an outcome, pause. Ask:
 The Stoics and the Buddha, separated by centuries and geography, arrived at the same truth:
 
 Freedom comes not from controlling everything, but from releasing what you never controlled in the first place.
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

@@ -182,3 +182,6 @@ And that's a question about values, meaning, and what you're living *for*—not 
 
 *Tags: attention economy, technology and humanity, consciousness, contemplative practice, digital minimalism*  
 *Date: 2025-09-30*
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

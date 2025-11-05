@@ -17,3 +17,6 @@ Brief reflections on connection, love, and community.
 ---
 
 [← Back to Relationality](../)
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

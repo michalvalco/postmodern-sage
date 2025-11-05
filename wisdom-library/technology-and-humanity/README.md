@@ -33,3 +33,6 @@ Technology isn't neutral. The tools we use shape how we think, relate, and exper
 ---
 
 [← Back to Wisdom Library](../)
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

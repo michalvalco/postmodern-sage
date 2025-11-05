@@ -125,3 +125,6 @@ Open an issue with the label `practical-guidance-question` and we'll help.
 **Coming soon:** Regular additions as new practical guides are developed and tested.
 
 For now, bookmark this page and check back as the collection grows.
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

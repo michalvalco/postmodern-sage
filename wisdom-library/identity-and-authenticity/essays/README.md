@@ -17,3 +17,6 @@ Deep philosophical explorations of selfhood and authenticity in contemporary lif
 ---
 
 [← Back to Identity & Authenticity](../)
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

@@ -98,3 +98,6 @@ Think: "Here's what makes this genuinely hard. Here's why it matters. Here's how
 **Coming soon:** Regular updates as new contemporary challenges are explored.
 
 For now, bookmark this page and check back as the collection grows.
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

@@ -17,3 +17,6 @@ Deep philosophical explorations of purpose and meaning in the 21st century.
 ---
 
 [← Back to Purpose & Meaning](../)
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

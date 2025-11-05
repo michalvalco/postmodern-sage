@@ -17,3 +17,6 @@ Brief reflections on finding direction and meaning in a post-grand-narrative wor
 ---
 
 [← Back to Purpose & Meaning](../)
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

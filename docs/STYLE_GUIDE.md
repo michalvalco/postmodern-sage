@@ -280,3 +280,6 @@ Style questions not addressed here? Open an issue with the label `style-guide-qu
 Write like you care about the reader. Write like you've struggled with these questions yourself. Write like truth matters but certainty is rare.
 
 That's the voice we're after.
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

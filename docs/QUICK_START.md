@@ -143,3 +143,6 @@ See [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md) for details.
 Pick an entry point above and begin. Philosophy happens through engagement, not just reading.
 
 So... engage.
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)

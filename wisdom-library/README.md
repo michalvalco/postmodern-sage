@@ -137,3 +137,6 @@ Philosophy resists neat filing. That's fine. The structure exists to help you fi
 ---
 
 **Start exploring:** Pick a category that addresses something you're wrestling with right now.
+---
+
+[🏠 Return to Homepage]({{ site.baseurl }}/)
